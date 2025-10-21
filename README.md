@@ -10,17 +10,10 @@ The model was trained on the [Kaggle "Fake and Real News Dataset"](https://www.k
 
 A live, interactive version of this project is deployed on **Hugging Face Spaces**.
 
-**Try the live app here: [https://huggingface.co/spaces/Your-Username/Your-Space-Name](https://huggingface.co/spaces/Your-Username/Your-Space-Name)**
+**Try the live app here: [https://huggingface.co/spaces/Your-Username/Your-Space-Name](https://huggingface.co/spaces/JaiRanganathAncha/Fake-News-Detector)**
 
 *(**Note:** You'll need to create this Hugging Face Space and replace the link above!)*
 
-### Screenshot
-
-![Gradio App Screenshot](https://user-images.githubusercontent.com/1234567/your-screenshot-link-here.png)
-
-*(**Note:** To add a screenshot, just drag-and-drop your `image_eb7495.png` file into a new "Issue" on GitHub. It will give you a URL. Paste that URL here.)*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -86,3 +79,4 @@ It may incorrectly classify *real* news from other sources (like the BBC, CNN, o
 
 ## 📄 License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
